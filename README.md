@@ -17,9 +17,11 @@ I blog about topics that I think could help other devs. Mostly tech specific.
 - [Creating Ruby native extensions](https://dev.to/vinistock/creating-ruby-native-extensions-kg1)
 - [Write a simple DSL in Ruby](https://dev.to/vinistock/write-a-simple-dsl-in-ruby-1jgi)
 - [Write your own Rails generator](https://dev.to/vinistock/understanding-and-writing-rails-generators-10h1)
+- [Changing Ruby classes at runtime with class_eval](https://dev.to/vinistock/changing-ruby-classes-at-runtime-with-classeval-52m)
+- [Make a Ruby gem configurable](https://dev.to/vinistock/make-a-ruby-gem-configurable-228d)
 
 ### :email: Get in touch
 
-Reach out if you'd like to discuss something.
+Feel free to reach out.
 - [Twitter](https://twitter.com/vinistock)
 - [dev.to](https://dev.to/vinistock)
